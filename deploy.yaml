@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: mani937/cicdpython:v1
+        image: mani937/cicdpython:v14
         ports:
         - containerPort: 8000
